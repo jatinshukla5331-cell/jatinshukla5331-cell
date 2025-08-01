@@ -3,7 +3,6 @@
 Welcome to my GitHub profile.
 
 ## About Me
-- Username: `jatinshukla5331-cell`
 - Student at DYP (Dr. D.Y. Patil) STR (School of Technology and Research)
 - Passionate about coding, learning, and exploring new technologies
 
